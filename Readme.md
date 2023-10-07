@@ -46,5 +46,5 @@ Tracking supplies through this network is non-trivial due to several factors inc
 6. Run the server (python app.py)
 
 # Questions
-For questions do reach me on <a href="https://linkedin.com/in/MadhuPIoT">LinkedIn</a>
+For questions do reach me on <a href="https://linkedin.com/in/shaik-samiyulla12">LinkedIn</a>
 # drug_traceability_BlockChain
